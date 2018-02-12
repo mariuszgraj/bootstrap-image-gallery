@@ -1,1 +1,1 @@
-# bootstrap-image-gallery
+Responsive Bootstrap image gallery :)
